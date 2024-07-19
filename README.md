@@ -1,11 +1,11 @@
-# Hi there, I'm Lakpriya Senevirathna 👋
+# Hi there, I'm Walter Cueva 👋
 
 ## 🚀 About Me
 - Entrepreneur 
 - Senior Software Engineer
 
 ## 🎓 Education
-- BS (Hons) in Computer Science
+- BS in Computer Science
 - MS in IT Management
 
 ## 🛠️ Technologies & Tools
